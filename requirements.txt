@@ -1,5 +1,5 @@
 numpy
 matplotlib
 pandas
-glob
+glob2
 streamlit
